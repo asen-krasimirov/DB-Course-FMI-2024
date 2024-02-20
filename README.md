@@ -1,4 +1,4 @@
-# FMI-DB-Course-2024
+# DB-Course-FMI-2024
 A repository for uploading exercises from the FMI DB (Databases) Course 2024.
 
 #### Lab Exercises
