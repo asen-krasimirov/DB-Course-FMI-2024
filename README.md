@@ -1,7 +1,7 @@
 # DB-Course-FMI-2024
 A repository for uploading exercises from the FMI DB (Databases) Course 2024.
 
-#### Lab Exercises
+### Lab Exercises
 <pre>
   1. Introduction: <a href="https://github.com/asen-krasimirov/DB-Course-FMI-2024/tree/main/Labs/Lab01">Lab 01</a>
 </pre>
